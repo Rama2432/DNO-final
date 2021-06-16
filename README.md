@@ -6,13 +6,13 @@
 
 ## ¿Para quiénes? 
     → Fan Experto: <br>
-    ![Protopersona FanExperto](/fotos/MoodBoard.jpg)
+    ![Protopersona FanExperto](/fotos/ProtoPersonas1.jpg)
 
     → Fan Regular: <br>
-    ![Protopersona FanRegular](/fotos/MoodBoard.jpg)
+    ![Protopersona FanRegular](/fotos/ProtoPersonas2.jpg)
 
     → Joven Rockero: <br>
-    ![Protopersona FanRockero](/fotos/MoodBoard.jpg)    
+    ![Protopersona FanRockero](/fotos/ProtoPersonas3.jpg)    
 
 ## Antecedentes 
 → muestre y describa 6 sitios o aplicaciones web.
