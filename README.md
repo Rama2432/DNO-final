@@ -5,17 +5,17 @@
 → Reunir el material de KISS en Chile de los fanaticos junto a los proyectos realizados por la comunidad de fanaticos (podcast, libros, grupos y foros) siendo un lugar de encuentro para la comunidad permitiendo compartir, comentar y explorar material exclusivo de cada fanatico.
 
 ## ¿Para quiénes? 
-Fan Experto   
+### Fan Experto   
+<br>
 ![FanExperto](/fotos/ProtoA.jpg)
 <br>
-Fan Regular:
+### Fan Regular
 <br>
 ![FanRegular](/fotos/ProtoB.jpg)
 <br>
-Joven Rockero: 
-![FanRockero](/fotos/ProtoC.jpg)    
+### Joven Rockero
 <br>
-
+![FanRockero](/fotos/ProtoC.jpg)    
 
 ## Antecedentes 
 → muestre y describa 6 sitios o aplicaciones web.
