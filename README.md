@@ -20,6 +20,8 @@
 
 ## Antecedentes 
 <br>
+![web1](/fotos/web1.png)
+<br>
     → https://galeriamlociny.pl/ - Se destaca la organización de elemento al recorrer la landing page con harta información, un poco saturado pero destcando con un gamade  colores que funciona y distigue cada zona por su configuracion en el espacio. <br>
     <br>
     → https://blackmadre.com/ - Tiene un recorrido lineal bien configurado atractivo y entretenido, creo que falta un poco de libertad para explorar. <br>
@@ -39,7 +41,6 @@
 
 
 ## Referentes 
-→ muestre y describa 6 registros visuales, distintos de sitios y aplicaciones web, que puedan aportar novedad. <br>
 <br>
     → https://bridge7.qodeinteractive.com/?_ga=2.165766845.2085471245.1605517916-1590212745.1605323601 - Web de recorrido simple pero con una estetica clara y atractiva que causa interes y se relaciona al mundo de los espectaculos  <br>
     <br>
