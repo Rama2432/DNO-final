@@ -27,7 +27,6 @@
     → https://covidartmuseum.com/ - Inicia de forma dinamica y se detaca la forma de exhibir la variedad de proyectos para agrergar valor en la landing page sin saturar de colores o información, se podria agreggar un poco de aire para aumentar la sensación de desplazamiento pero lo destaco como un buen antecedentes. <br>
     <br>
     → https://cinderblocinc.com/10princearthur/ - Un recorrido inicial que destaca, tiene una variación con el menu que entrega una mirada productiva de la pagina guiando anticipadamente a cada subpage, creo que falta un poco de introducción al ambiente de la pagina. <br>
-
     <br>
     → https://www.weflowexperience.com/ - Aprovecha mucho la composición de las fotos siendo fotos sin una preparación para estar en la pagina siendo un recurso creativo muy interesante. <br>
     <br>
