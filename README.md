@@ -11,9 +11,11 @@ Fan Experto
 <br>
 Fan Regular
 <br>
+<br>
 ![FanRegular](/fotos/ProtoB.jpg)
 <br>
 Joven Rockero
+<br>
 <br>
 ![FanRockero](/fotos/ProtoC.jpg)    
 
