@@ -5,31 +5,31 @@
 → Reunir el material de KISS en Chile de los fanaticos junto a los proyectos realizados por la comunidad de fanaticos (podcast, libros, grupos y foros) siendo un lugar de encuentro para la comunidad permitiendo compartir, comentar y explorar material exclusivo de cada fanatico.
 
 ## ¿Para quiénes? 
-Fan Experto   
+**Fan Experto**   
 <br>
 ![FanExperto](/fotos/ProtoA.jpg)
 <br>
-Fan Regular
 <br>
+**Fan Regular**
 <br>
 ![FanRegular](/fotos/ProtoB.jpg)
 <br>
-Joven Rockero
 <br>
+**Joven Rockero**
 <br>
 ![FanRockero](/fotos/ProtoC.jpg)    
 
 ## Antecedentes 
-→ muestre y describa 6 sitios o aplicaciones web.
-    → https://galeriamlociny.pl/ - Se destaca la organización de elemento al recorrer la landing page con harta información, un poco saturado pero destcando con un gamade  colores que funciona y distigue cada zona por su configuracion en el espacio <br>
+    → https://galeriamlociny.pl/ - Se destaca la organización de elemento al recorrer la landing page con harta información, un poco saturado pero destcando con un gamade  colores que funciona y distigue cada zona por su configuracion en el espacio. <br>
     <br>
-    → https://blackmadre.com/ - Tiene un recorrido lineal bien configurado atractivo y entretenido, creo que falta un poco de libertad para explorar <br>
+    → https://blackmadre.com/ - Tiene un recorrido lineal bien configurado atractivo y entretenido, creo que falta un poco de libertad para explorar. <br>
     <br>
-    → https://covidartmuseum.com/ - Inicia de forma dinamica y se detaca la forma de exhibir la variedad de proyectos para agrergar valor en la landing page sin saturar de colores o información, se podria agreggar un poco de aire para aumentar la sensación de desplazamiento pero lo destaco como un buen antecedentes <br>
+    → https://covidartmuseum.com/ - Inicia de forma dinamica y se detaca la forma de exhibir la variedad de proyectos para agrergar valor en la landing page sin saturar de colores o información, se podria agreggar un poco de aire para aumentar la sensación de desplazamiento pero lo destaco como un buen antecedentes. <br>
     <br>
-    → https://cinderblocinc.com/10princearthur/ - Un recorrido inicial que destaca, tiene una variación con el menu que entrega una mirada productiva de la pagina guiando anticipadamente a cada subpage, creo que falta un poco de introducción al ambiente de la pagina <br>
+    → https://cinderblocinc.com/10princearthur/ - Un recorrido inicial que destaca, tiene una variación con el menu que entrega una mirada productiva de la pagina guiando anticipadamente a cada subpage, creo que falta un poco de introducción al ambiente de la pagina. <br>
+
     <br>
-    → https://www.weflowexperience.com/ - Aprovecha mucho la composición de las fotos siendo fotos sin una preparación para estar en la pagina siendo un recurso creativo muy interesante
+    → https://www.weflowexperience.com/ - Aprovecha mucho la composición de las fotos siendo fotos sin una preparación para estar en la pagina siendo un recurso creativo muy interesante. <br>
     <br>
     → https://www.artcal.co/melbourne - Web estilo de calendario que simplifica el uso de la pagina pero que cada fecha posee un elemento distintivo utilizando a favor disponer de la composicion de un calendario <br>
     <br>
