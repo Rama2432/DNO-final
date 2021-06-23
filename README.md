@@ -19,6 +19,7 @@
 ![FanRockero](/fotos/ProtoC.jpg)    
 
 ## Antecedentes 
+<br>
     → https://galeriamlociny.pl/ - Se destaca la organización de elemento al recorrer la landing page con harta información, un poco saturado pero destcando con un gamade  colores que funciona y distigue cada zona por su configuracion en el espacio. <br>
     <br>
     → https://blackmadre.com/ - Tiene un recorrido lineal bien configurado atractivo y entretenido, creo que falta un poco de libertad para explorar. <br>
