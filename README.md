@@ -8,7 +8,7 @@
 <br>
     → Fan Experto: 
     <br>
-    ![Protopersona FanExperto](/fotos/ProtoA.jpg)
+    ![Protopersona FanExperto](/fotos/ProtoPersonas1.jpg)
 <br>
     → Fan Regular: 
     ![Protopersona FanRegular](/fotos/ProtoB.jpg)
