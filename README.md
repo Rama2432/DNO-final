@@ -20,6 +20,7 @@
 
 ## Antecedentes 
 <br>
+
 ![web1](/fotos/web1.png)
 <br>
     → https://galeriamlociny.pl/ - Se destaca la organización de elemento al recorrer la landing page con harta información, un poco saturado pero destcando con un gamade  colores que funciona y distigue cada zona por su configuracion en el espacio. <br>
