@@ -6,7 +6,6 @@
 
 ## ¿Para quiénes? 
 Fan Experto   
-<br>
 ![FanExperto](/fotos/ProtoA.jpg)
 <br>
 Fan Regular:
