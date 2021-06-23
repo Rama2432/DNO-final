@@ -6,7 +6,9 @@
 
 ## ¿Para quiénes? 
 <br>
+<br>
     → Fan Experto: 
+    <br>
     <br>
     ![Protopersona FanExperto](/fotos/ProtoPersonas1.jpg)
 <br>
