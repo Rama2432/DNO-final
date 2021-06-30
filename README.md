@@ -6,17 +6,17 @@
 
 ## ¿Para quiénes? 
 **Fan Experto**   
-![FanExperto](/fotos2/ProtoA.jpg)
+![FanExperto](/fotos2/ProtoA.webp)
 <br>
 <br>
 **Fan Regular**
 <br>
-![FanRegular](/fotos2/ProtoB.jpg)
+![FanRegular](/fotos2/ProtoB.webp)
 <br>
 <br>
 **Joven Rockero**
 <br>
-![FanRockero](/fotos2/ProtoC.jpg)    
+![FanRockero](/fotos2/ProtoC.webp)    
 
 ## Antecedentes 
 <br>
@@ -90,4 +90,4 @@
 <br>
     →MOODBOARD: Se expone la dinamica de fotos y colores que se relacionan con el mundo del espectáculo <br>
     <br>
-    ![MoodBoard de KISS](/fotos2/MoodBoard.jpg)
+    ![MoodBoard de KISS](/fotos2/MoodBoard.webp)
