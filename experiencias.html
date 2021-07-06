@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Web Kissin' Chile - reúne la experiencia de kisseros en Chile" />
+        <meta name="author" content="JR" />
+        <title>KISSIN' CHILE</title>
+        <link rel="icon" type="image/x-icon" href="assets/kissicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&family=Raleway:wght@700;900&display=swap" rel="stylesheet" />
+        <link href="css/styles.css" rel="stylesheet" />
+        <script src="js/scripts.js"></script>
+    </head>
+
+    <body id="page-top" style="background-color: black;">
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html"> <img src="assets/img2/logo1.png" alt="" /></a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Togglenavigation">
+                    <a href="index.html">Volver</a>
+                    <i class="fas fa-bars" ></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link text-white" href="index.html">Volver</a></li>
+                        <li class="bg-warning">
+                            <a class="" href="experiencias.html"><h5>Experiencias</h5></a>
+                        </li>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <section id="work">
+            <div class="container px-4 px-lg-5">
+                <br />
+                <h1 class="pt-5 mt-5 text-white text-center">Explorador de Experiencias</h1>
+                <h5 class="text-white-50 text-center">Elige un año para destacar todo lo relacionado con este evento.</h5>
+            </div>
+            <div class="container">
+                <br />
+                <div class="row px-4 px-lg-5 text-center">
+                    <form id="opciones">
+                        <input type="radio" name="concert" value="todos" checked />
+                        <label for="todos" class="ms-1 me-2 text-white"> Todos &nbsp;</label>
+                        <input type="radio" name="concert" value="1994" />
+                        <label for="1994" class="ms-1 me-2 text-white"> 1994</label>
+                        <input type="radio" name="concert" value="1997" />
+                        <label for="1997" class="ms-1 me-2 text-white"> 1997</label>
+                        <input type="radio" name="concert" value="2009" />
+                        <label for="2009" class="ms-1 me-2 text-white"> 2009</label>
+                        <input type="radio" name="concert" value="2012" />
+                        <label for="2012" class="ms-1 me-2 text-white"> 2012</label>
+                        <input type="radio" name="concert" value="2015" />
+                        <label for="2015" class="ms-1 me-2 text-white"> 2015</label>
+                    </form>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row mt-4 mb-5 g-4" data-masonry='{"percentPosition": true }' id="portfolio"></div>
+            </div>
+        </section>
+
+        <script
+            src="https://deelay.me/1500/https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"
+            integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D"
+            crossorigin="anonymous"
+            async
+        ></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    </body>
+</html>
